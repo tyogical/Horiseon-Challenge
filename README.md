@@ -10,4 +10,4 @@ Using provided code from the client Horiseon, I have used a series of lesson pla
 
 #### Link to Deployed Page
 
-[Google](https://www.google.com)
+[Horiseon](https://www.google.com)
