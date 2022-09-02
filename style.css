@@ -32,7 +32,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Changed div child to nav to correlate with HTML semantics and still link to style sheet */
 .header nav ul {
     list-style-type: none;
 }
